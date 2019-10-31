@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\obj\Debug\netcoreapp2.2\One List.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\obj\Debug\netcoreapp2.2\One List.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\obj\Debug\netcoreapp2.2\One List.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\obj\Debug\netcoreapp2.2\One List.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\bin\Debug\netcoreapp2.2\One List.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\bin\Debug\netcoreapp2.2\One List.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\bin\Debug\netcoreapp2.2\One List.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\bin\Debug\netcoreapp2.2\One List.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\bin\Debug\netcoreapp2.2\One List.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\obj\Debug\netcoreapp2.2\One List.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\PRO2Achievements\One List\obj\Debug\netcoreapp2.2\One List.pdb
