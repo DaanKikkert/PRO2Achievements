@@ -2,7 +2,7 @@
 ## Hoi, mijn naam is Daan Kikkert
 Ik houd van __video games__ en _Eten_.
 
-~~En van *__Video games eten__**.~~
+~~En van __Video games eten__.~~
 
 ### Mijn favorite eten is:
 
