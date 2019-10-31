@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\obj\Debug\netcoreapp2.2\vinkentering.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\obj\Debug\netcoreapp2.2\vinkentering.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\obj\Debug\netcoreapp2.2\vinkentering.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\obj\Debug\netcoreapp2.2\vinkentering.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\bin\Debug\netcoreapp2.2\vinkentering.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\bin\Debug\netcoreapp2.2\vinkentering.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\bin\Debug\netcoreapp2.2\vinkentering.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\bin\Debug\netcoreapp2.2\vinkentering.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\bin\Debug\netcoreapp2.2\vinkentering.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\obj\Debug\netcoreapp2.2\vinkentering.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\vinkentering\obj\Debug\netcoreapp2.2\vinkentering.pdb

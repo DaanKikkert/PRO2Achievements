@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.2\What's my name.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.2\What's my name.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.2\What's my name.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.2\What's my name.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\bin\Debug\netcoreapp2.2\What's my name.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.2\What's my name.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.2\What's my name.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.2\What's my name.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.2\What's my name.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.2\What's my name.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\What's my name\obj\Debug\netcoreapp2.2\What's my name.pdb

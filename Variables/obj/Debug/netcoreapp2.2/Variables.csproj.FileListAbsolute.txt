@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\obj\Debug\netcoreapp2.2\Variables.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\obj\Debug\netcoreapp2.2\Variables.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\obj\Debug\netcoreapp2.2\Variables.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\bin\Debug\netcoreapp2.2\Variables.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\bin\Debug\netcoreapp2.2\Variables.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\bin\Debug\netcoreapp2.2\Variables.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\bin\Debug\netcoreapp2.2\Variables.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\obj\Debug\netcoreapp2.2\Variables.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Variables\obj\Debug\netcoreapp2.2\Variables.pdb

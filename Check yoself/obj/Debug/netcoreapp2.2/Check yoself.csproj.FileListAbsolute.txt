@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\obj\Debug\netcoreapp2.2\Check yoself.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\obj\Debug\netcoreapp2.2\Check yoself.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\obj\Debug\netcoreapp2.2\Check yoself.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\obj\Debug\netcoreapp2.2\Check yoself.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\bin\Debug\netcoreapp2.2\Check yoself.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\bin\Debug\netcoreapp2.2\Check yoself.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\bin\Debug\netcoreapp2.2\Check yoself.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\bin\Debug\netcoreapp2.2\Check yoself.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\bin\Debug\netcoreapp2.2\Check yoself.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\obj\Debug\netcoreapp2.2\Check yoself.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.1\pro2\Check yoself\obj\Debug\netcoreapp2.2\Check yoself.pdb
